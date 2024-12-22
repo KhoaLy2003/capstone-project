@@ -1,4 +1,4 @@
-# Building a Mechanical Machinery Rental and Management System
+# Capstone Project - Building a Mechanical Machinery Rental and Management System
 
 ## Table of Contents
   - [Table of Contents](#table-of-contents)
@@ -10,10 +10,11 @@
 
 ## Description
 The Mechanical Machinery Rental and Management System - MMRMS is a system for managing and operating mechanical machinery rental services. It allows customers to easily search for, rent machinery based on their needs, and track contracts or invoices online.
+
 For managers, the system provides features to optimize operational processes, including:
-•	Machinery management: Track the condition, maintenance, and rental history of each machine serial number.
-•	Machinery delivery: Plan and manage machinery delivery tasks.
-•	Machinery inspection: Support the inspection process and report on the condition of machinery during the rental period and when rental contract ends.
+-	Machinery management: Track the condition, maintenance, and rental history of each machine serial number.
+-	Machinery delivery: Plan and manage machinery delivery tasks.
+-	Machinery inspection: Support the inspection process and report on the condition of machinery during the rental period and when rental contract ends.
 
 ## Technology
 **1. Front-end**
