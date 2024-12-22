@@ -34,9 +34,9 @@ For managers, the system provides features to optimize operational processes, in
 - Goong
 
 ## Documentation
-- [Final Project Report](link)
-- [Slide](link)
-- [Script](link)
+- [Final Project Report](document/FA24SE008_VoThiThanhVan_Report7_Final_Project_Report.pdf)
+- [Slide](document/MMRMS.pptx)
+- [Script](script/mmrms.sql)
 
 ## Source code
 #| Github 
